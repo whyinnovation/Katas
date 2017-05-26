@@ -1,0 +1,2 @@
+# Katas
+Coding dojo challenges
